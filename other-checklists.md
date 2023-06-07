@@ -6,3 +6,4 @@ A list of other checklists which should be included into this all-inclusive chec
 - https://github.com/harendra-shakya/smart-contract-attack-vectors
 - https://github.com/Decurity/audit-checklists/blob/master/cdp.md
 - https://github.com/Decurity/audit-checklists/blob/master/lsd.md
+- https://github.com/securing/SCSVS
