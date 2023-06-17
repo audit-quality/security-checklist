@@ -1,0 +1,20 @@
+site_name: Smart Contract Security Checklist
+theme:
+  name: material
+  features:
+    - header.autohide
+  palette:
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
