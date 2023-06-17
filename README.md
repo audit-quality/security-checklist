@@ -4,7 +4,7 @@ The open source knowledge repository for common smart contract bugs.
 
 The goal is to make a comprehensive checklist of common smart contract errors that can be used in many different contexts. This list intends to make it clearer what is an incorrect and correct pattern looks like to make it easier for anyone to better understand these common issues.
 
-Is something missing? Please open a PR!
+Is something missing? Review the [contributing guidelines](./CONTRIBUTING.md) and open a PR!
 
 ## How to run locally
 
