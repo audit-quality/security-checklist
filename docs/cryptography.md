@@ -63,6 +63,7 @@ TODO and improve the focus of the question
 - [Deeper dive into ECDSA signature malleability](https://0xsomeone.medium.com/b002-solidity-ec-signature-pitfalls-b24a0f91aef4)
 - [Polygon $2 million bug bounty](https://medium.com/immunefi/polygon-lack-of-balance-check-bugfix-postmortem-2-2m-bounty-64ec66c24c7d)
 - [OpenZeppelin ECDSA recover vulnerability in OZ >= 4.1.0 < 4.7.3](https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories/GHSA-4h98-2769-gh6h)
+- [Signature malleability PoC](https://github.com/pcaversaccio/malleable-signatures)
 
 ## 4. Is the result of solidity's `ecrecover` checked for a return value of 0?
 

@@ -9,3 +9,5 @@ A list of other checklists which should be included into this all-inclusive chec
 - https://github.com/securing/SCSVS
 - https://github.com/tonisives/smart-contract-attack-vectors
 - https://github.com/0xprinc/checks-while-hacks
+- https://github.com/Quillhash/Solidity-Attack-Vectors
+- https://github.com/manifoldfinance/defi-threat
