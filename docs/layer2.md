@@ -98,3 +98,21 @@ Some tokens, like USDC, have a bridged and native form. For example, USDC.e on A
 
 - [Circle announcement of Optimism native USDC](https://www.circle.com/blog/now-available-usdc-on-op-mainnet)
 - [Circle announcement of Arbitrum native USDC](https://www.circle.com/blog/arbitrum-usdc-now-available)
+
+## 6. If deployed on Blast chain, is it claiming fees?
+
+**Incorrect**
+
+No.
+
+**Correct**
+
+Yes, deployed contracts are configured to receive and claim gas from Blast.
+
+**Explanation**
+
+Blast redirects sequencer fees to the DApps that induced them, allowing smart contract developers to have an additional source of revenue. The contracts have to be configured to receive and claim gas fees.
+
+**Links**
+
+- [Blas docs for receiving and claiming fees](https://docs.blast.io/building/guides/gas-fees#overview)
