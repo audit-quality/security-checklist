@@ -115,4 +115,4 @@ Blast redirects sequencer fees to the DApps that induced them, allowing smart co
 
 **Links**
 
-- [Blas docs for receiving and claiming fees](https://docs.blast.io/building/guides/gas-fees#overview)
+- [Blast docs for receiving and claiming fees](https://docs.blast.io/building/guides/gas-fees#overview)
