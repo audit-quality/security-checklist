@@ -4,7 +4,8 @@ LSDs have become a popular way of earning interest on Proof of Stake (PoS) nativ
 
 Other resources:
 
-- [LSD checklist](https://blog.decurity.io/typical-vulnerabilities-in-lsd-protocols-e52ffe4ee175)
+- [Decurity LSD checklist](https://blog.decurity.io/typical-vulnerabilities-in-lsd-protocols-e52ffe4ee175)
+- [Sigma Prime LSD checklist](https://blog.sigmaprime.io/liquid-restaking.html)
 
 ## 1. Are withdraw credentials securely handled to prevent a malicious node operator from frontrunning withdrawals with their own credentials?
 
